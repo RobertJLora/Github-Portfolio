@@ -1,4 +1,4 @@
-# Robert Lora | Marketing & SEO Professional with Technical Edge 🚀
+# Robert Lora | SEO Lead & Code Explorer
 
 <div align="center">
   
@@ -77,7 +77,7 @@ chrome.runtime.onInstalled.addListener(() => {
 | Marketing Expertise | Technical Skills | Tools & Platforms |
 |:-------------------:|:----------------:|:-----------------:|
 | Content Strategy | JavaScript | Google Analytics 4 |
-| Brand Development | HTML/CSS | Adobe Creative Suite |
+| Brand Development | HTML/CSS | AI/LLMs |
 | Analytics & Data | Chrome Extensions API | Ahrefs |
 | UX/UI Principles | Git/GitHub | SEMrush |
 | A/B Testing | JSON | WordPress |
